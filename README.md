@@ -7,35 +7,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurGlsvn&layout=compact&hide=html,css" alt="En Çok Kullandığım Diller" />
 </p>
 
-## 🌐 FoxyCodeStudios
-https://foxycodestudios.com
-
+## 🌐 GalaksiCodeStudios
+https://galaksii.com.tr
 ## 📚 Medium Hesabım
-[@onurglsvn ](https://medium.com/@onurglsvn)
+[@onurglsvn ](https://medium.com/)
 
 ## 🌐 GitHub io Sayfam
-https://onurglsvn.github.io
+https://onurx.com.tr
 
 ## 📫 Bana Nasıl Ulaşabilirsiniz?
 
-[![Linkedin Rozeti](https://img.shields.io/badge/onurglsvn-linkedin'de%20takip%20et-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onurglsvn/)
+[![Spotify Rozeti](https://img.shields.io/badge/onurglsvn-follow%20on%20spotify-green?style=for-the-badge&logo=spotify)]
+(https://open.spotify.com/user/31jb354gdrpv5bq5lhzdblmbpkje?si=bRihn6fCROWjOnK01j-GlA)
 
-[![Spotify Rozeti](https://img.shields.io/badge/onurglsvn-follow%20on%20spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/onurglsvn)
-
-[![Discord Rozeti](https://img.shields.io/badge/OnurGlsvn%23XXXX-discord'da%20bana%20ulaşın-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/OnurGlsvn)
+[![Discord Rozeti](https://img.shields.io/badge/OnurGlsvn%23XXXX-discord'da%20bana%20ulaşın-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/onurx.)
 
 ## ⚡ Eğlenceli Gerçek
 
-Startup kültürüne bayılıyorum :) FoxyCodeStudious'un kurucu ortağıyım.
+Startup kültürüne bayılıyorum :)
 
 Bazı fikirlerim başarısız olmuş olsa da, startup kültürüne katkıda bulunmaya, daha iyi bir dünya için pes etmeden devam edeceğim.
 
-### 🔭 Aktif Olarak Desteklediğim Start-up Şirketleri
+### 🔭 Aktif Olarak Desteklediğim  Şirketler
 
-Benzinlitre - Astopia - İyiyaşa - Lifebox
+Hiya - DCSV.ME
 
-### 🤔 GitHub Profili Nasıl Yazılır?
-
-tr blog -> https://medium.com/@onurglsvn/github-profilinize-readme-olu%C5%9Fturma-70f9ee897c8c
-
-en blog -> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
